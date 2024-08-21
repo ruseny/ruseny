@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Rusen Yasar
+Data professional
 <!--
 **ruseny/ruseny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
