@@ -1,9 +1,9 @@
 # Rusen Yasar
 
 ## About me
-* Professional with background as researcher in quantitative political science
-* Extensive experience in data extraction, management, statistical modelling, and reporting
-* Seeking to leverage scientific experience in data science, analytics, and research
+* Professional with background in quantitative political science research
+* Extensive experience in data extraction, management, analysis, modelling, visualisation, and reporting
+* Working to leverage scientific experience in data science, analytics, and research
 
 <!--
 **ruseny/ruseny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
