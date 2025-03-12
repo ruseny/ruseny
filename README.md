@@ -7,7 +7,7 @@
 * Working to leverage scientific experience in data science, analytics, and research
 * Proficient, with regard to data science applications, in python, R, and SQL.
 
-## About my projects
+## About my repos
 You can find two types of repositories here: more recent data science-oriented works written in python (including jupyter notebooks), and rather older social-scientific works written in R (or R Markdown).
 
 I pin below four recent projects.
