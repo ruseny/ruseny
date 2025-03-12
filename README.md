@@ -1,7 +1,7 @@
 # Rusen Yasar
 
 ## About me
-* Professional with background in quantitative political science research
+* Researcher with background in quantitative political science
 * Extensive experience in data extraction, management, analysis, modelling, visualisation, and reporting
 * Working to leverage scientific experience in data science, analytics, and research
 
